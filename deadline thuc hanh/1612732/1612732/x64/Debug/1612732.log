@@ -1,0 +1,8 @@
+﻿  Bill.cpp
+  BillList.cpp
+  Book.cpp
+  BookList.cpp
+  main.cpp
+  Generating Code...
+D:\study\oop\project\deadline thuc hanh\1612732\1612732\BookList.cpp(169,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  1612732.vcxproj -> D:\study\oop\project\deadline thuc hanh\1612732\x64\Debug\1612732.exe
